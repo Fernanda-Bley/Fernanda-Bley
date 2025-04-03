@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fernanda-Bley
-- 👀 I’m interested in anime and literature
-- 🌱 I’m currently learning programing and data science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in medicine, biology and ethics
+- 🌱 I’m currently learning lp and data science
+- 💞️ I’m looking to collaborate on proyects related to medicine, biology studies and ethics. 
 - 📫 How to reach me my mail is fernanda.bley@uc.cl
 
 <!---
